@@ -4,7 +4,7 @@
     font-size: 30px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    justify-content: flex-start;
 }
 .places h1 {
     width: 100%;
