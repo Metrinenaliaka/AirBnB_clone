@@ -1,0 +1,16 @@
+section{
+	display: flex;
+	flex-flow: row wrap;
+	flex: 1;
+}
+.types{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.information p{
+	margin-top: 70%;
+}
+.item{
+	margin-left: 10px;
+}

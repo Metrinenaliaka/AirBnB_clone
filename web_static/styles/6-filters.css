@@ -28,7 +28,7 @@ ul {
     position: relative;
     display: flex;
     flex-flow: column;
-    justify-content: center;
+    justify-content:center;
 }
 
 .filters div:first-child {
